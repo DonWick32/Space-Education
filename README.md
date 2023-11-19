@@ -27,7 +27,7 @@ The core logic of the game is encapsulated in various C# scripts that handle dif
 
 1. Clone the repository or download the zip file.
 2. Open the project in Unity.
-3. Build and run the project on a supported XR device or XR Device Sumulator.
+3. Build and run the project on a supported XR device or XR Device Simulator ([Key Bindings](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/xr-device-simulator.html)).
 
 ## Tools
 
