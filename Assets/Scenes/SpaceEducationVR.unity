@@ -782,6 +782,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: InfoTitleText
       objectReference: {fileID: 0}
+    - target: {fileID: 6590335592906198642, guid: 924634a19f3df1745877b8327f468ab0,
+        type: 3}
+      propertyPath: m_Text
+      value: AR-VR PROJECT
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590335592906198642, guid: 924634a19f3df1745877b8327f468ab0,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590335592906198642, guid: 924634a19f3df1745877b8327f468ab0,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 7630077349138086091, guid: 924634a19f3df1745877b8327f468ab0,
         type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -9152,8 +9167,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Grab a planet and move it to the centre wheel position to learn more about
-    it.
+  m_Text: "Welcome to Space Education Demo. \n\nGrab a planet and move it to the
+    centre wheel position to learn more about it.\n\nThis project is presented by
+    Selva, Aadarsh and Nitish.\n"
 --- !u!222 &1440334187
 CanvasRenderer:
   m_ObjectHideFlags: 0
