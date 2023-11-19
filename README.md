@@ -29,17 +29,12 @@ The core logic of the game is encapsulated in various C# scripts that handle dif
 2. Open the project in Unity.
 3. Build and run the project on a supported XR device or XR Device Sumulator.
 
-## Licensing Information
-
-### Code
-
-The source code of this project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that you give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-### Models and Assets
-
-Please be advised that while the source code is licensed under the MIT License, the 3D models, textures, and other associated assets **are not**. These assets are proprietary and come with their own licensing terms. Redistribution, copying, or any other form of use of these assets outside the context of this project is strictly prohibited unless explicitly granted by the original asset creators or rights holders. Always consult individual licenses accompanying each asset or model for specific terms and conditions. Unauthorised use or distribution of these proprietary assets may result in legal consequences.
-
 ## Tools
 
 - [Unity 2022.3.12](https://unity.com/)
 - [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.10/manual/index.html)
+
+## Contributors
+- Aadarsh A
+- Nitish N
+- Selvanayagam S
